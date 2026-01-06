@@ -1,0 +1,22 @@
+INSPIRACJE (słowa, skojarzenia, pomysły):
+- Booksy (aplikacja do rezerwacji usług w branży beauty)
+- Google Maps (lokalizacje i trasy)
+- Oszczędność czasu (brak dzwonienia/ scrollowania godzinami postów "Wydarzenia w twojej okolicy w tym miesiącu" by znaleźć cokolwiek ciekawego)
+- "concierge" w telefonie
+
+KRÓTKA LISTA ELEMENTÓW PROJEKTU:
+1. Oś czasu (Timeline) wizualizująca cały wieczór.
+2. Sugestie logistyczne (np. "Masz tylko 15 min na dojście, wybierz coś bliżej").
+3. Współdzielenie planu ze znajomymi (możliwość głosowania na lokal).
+4. System powiadomień ("Za 30 min kończy się film, stolik w restauracji czeka").
+
+WSTĘPNE DANE WEJŚCIOWE:
+- Kategorie główne: Gastronomia, Kultura (Kino, Teatr, Muzea), Rozrywka aktywna (Kręgle, Bilard, Gokarty), Muzyka (Kluby, Koncerty).
+- Parametry rezerwacji: Liczba osób, Data, Godzina, Czas trwania, Wymagany zadatek.
+- Filtry: Rodzaj kuchni, Gatunek filmu, Odległość od poprzedniego punktu.
+
+LISTA ŹRÓDEŁ POMYSŁU:
+1. Własna frustracja przy organizacji wyjść (konieczność dzwonienia w 3 miejsca/ stania w kolejkach/ przeszukiwania stron w celu znalezienia atrakcji).
+2. Obserwacja kolejek do kas w kinach i restauracjach.
+3. Popularność aplikacji do zamawiania jedzenia (chcemy tego samego, ale na mieście).
+4. Potrzeba wygodniejszej organizacji spotkań.

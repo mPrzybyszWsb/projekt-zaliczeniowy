@@ -1,0 +1,30 @@
+[ START APLIKACJI ]
+       |
+       v
+[ EKRAN GŁÓWNY (Wyszukiwarka / Mapa) ]
+       |
+       +---> [ OPCJA A: SZYBKA REZERWACJA ]
+       |        |
+       |        v
+       |     [ Wybór lokalu i godziny ] ---> [ Potwierdzenie ]
+       |
+       +---> [ OPCJA B: KREATOR "PLANU DNIA" ]
+                |
+                v
+       [ Krok 1: Wybór wydarzenia startowego (np. Kino 17:00) ]
+                |
+                v
+       [ Krok 2: "Co robimy potem?" (Sugerowanie lokali w pobliżu) ]
+                |
+                v
+       [ Krok 3: Dodanie kolejnych punktów (Restauracja -> Klub) ]
+                |
+                v
+       [ PODGLĄD OSI CZASU (Timeline) ]
+       (Sprawdzenie czy zdążymy przemieścić się między punktami)
+                |
+                v
+       [ PŁATNOŚĆ / REZERWACJA ZBIORCZA ]
+                |
+                v
+       [ GENEROWANIE PLANU Z KODAMI QR ]
