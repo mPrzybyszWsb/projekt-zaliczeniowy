@@ -1,1 +1,3 @@
 agsfdjdhasgfuashdfkjhsdfkjshdfjksh
+
+To jest plik tekstowy o nazwie nowy2.txt
