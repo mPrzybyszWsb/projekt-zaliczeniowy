@@ -2,7 +2,7 @@ INSPIRACJE (słowa, skojarzenia, pomysły):
 - Booksy (aplikacja do rezerwacji usług w branży beauty)
 - Google Maps (lokalizacje i trasy)
 - Oszczędność czasu (brak dzwonienia/ scrollowania godzinami postów "Wydarzenia w twojej okolicy w tym miesiącu" by znaleźć cokolwiek ciekawego)
-- "concierge" w telefonie
+- "Concierge" w telefonie
 
 KRÓTKA LISTA ELEMENTÓW PROJEKTU:
 1. Oś czasu (Timeline) wizualizująca cały wieczór.
